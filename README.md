@@ -1,5 +1,5 @@
-# Deep Learning
+# Machine Learning Algorithm and Deep Learning Algorithms
 
-## These are my learnings of DeepLearning / Neural Networks 
+## I am implementing ML Algorithms and DL Algorithms from scratch.
 
-The above Jupyter Notebook is from the site mentioned in the notebook demonstrates use of simple Neural Network.
+These Jupyter Notebook are from the sites mentioned in the notebook demonstrates use of simple Neural Network.
